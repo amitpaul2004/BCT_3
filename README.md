@@ -1,4 +1,4 @@
-# 🚀 Data Science ( Analytics) & Machine Learning 
+#  Data Science ( Analytics) & Machine Learning 
 
 <p align="center">
 
