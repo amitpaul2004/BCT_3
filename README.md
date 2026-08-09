@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics+Projects;Machine+Learning+Portfolio;Visualization+Beyond+Basics;Python+%7C+Pandas+%7C+Seaborn;Real+World+Datasets+Analysis&center=true&width=500&height=45">
 
 </p>
-
+  
 ---
 
 <p align="center">
@@ -237,6 +237,7 @@ Python | Pandas | NumPy | Seaborn | Matplotlib | Plotly | Scikit-learn
 │   ├──  ( all data of .ipynb files )
 └── 📝 README.md
 ```
+
 
 ---
 
